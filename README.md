@@ -1,5 +1,5 @@
 ---
-title: YOLO NMS
+title: YOLO NMS - Non-Maximum Suppression
 emoji: 🐠
 colorFrom: yellow
 colorTo: blue
