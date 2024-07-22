@@ -11,9 +11,11 @@ license: creativeml-openrail-m
 short_description: Object Detection + Captioning
 ---
 
+![alt text](assets/111.png)
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-## Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
+Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 
 ## Gitlfs - https
 
