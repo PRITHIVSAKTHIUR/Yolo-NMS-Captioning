@@ -51,6 +51,21 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 
 ![alt text](assets/44.webp)
 
+## The requirements ⬇️
+
+| Package                      | Description                                      |
+|------------------------------|--------------------------------------------------|
+| `ultralytics`                | Ultralytics YOLO models for object detection.    |
+| `gradio`                     | Create customizable web-based interfaces.        |
+| `opencv-python-headless`     | OpenCV without GUI features.                     |
+| `spaces`                     | Hugging Face Spaces for deploying applications.  |
+| `lapx>=0.5.2`                | Linear assignment problem solver.                |
+| `shapely>=2.0.0`             | Geometric objects manipulation.                  |
+| `transformers`               | Hugging Face's transformer models.               |
+| `torch`                      | PyTorch for deep learning.                       |
+
+
+
 .
 
 .
