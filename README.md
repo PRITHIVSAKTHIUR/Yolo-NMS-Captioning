@@ -39,7 +39,7 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
     
     GIT_LFS_SKIP_SMUDGE=1 git clone git@hf.co:spaces/prithivMLmods/YOLO-NMS
 
-## Input Image Processing ( yolo obd, caption )
+## Input Image Processing ( Yolo obd - You Only Look Once, Image caption salesforce blip )
 
 ![alt text](assets/66.png)
 
@@ -47,3 +47,6 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 
 ![alt text](assets/77.png)
 
+## The Resultant Image
+
+![alt text](assets/44.webp)
