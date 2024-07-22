@@ -50,3 +50,9 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 ## The Resultant Image
 
 ![alt text](assets/44.webp)
+
+.
+
+.
+
+.@prithivmlmods-hf
