@@ -42,3 +42,8 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 ## Input Image Processing ( yolo obd, caption )
 
 ![alt text](assets/66.png)
+
+## The Processed Outcome 
+
+![alt text](assets/77.png)
+
