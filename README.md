@@ -40,3 +40,5 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
     GIT_LFS_SKIP_SMUDGE=1 git clone git@hf.co:spaces/prithivMLmods/YOLO-NMS
 
 ## Input Image Processing ( yolo obd, caption )
+
+![alt text](assets/66.png)
