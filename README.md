@@ -17,7 +17,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 
-## git lfs - https
+## git lfs - https ---
 
     # Make sure you have git-lfs installed (https://git-lfs.com)
     git lfs install
@@ -28,7 +28,7 @@ Spaces 🔗 : https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
     
     GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/spaces/prithivMLmods/YOLO-NMS
 
-## git lfs - ssh
+## git lfs - ssh ---
 
     # Make sure you have git-lfs installed (https://git-lfs.com)
     git lfs install
